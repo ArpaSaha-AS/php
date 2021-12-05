@@ -1,0 +1,19 @@
+<?php
+
+$a = 665;
+
+$b = 9;
+
+If($a > 78){
+
+Echo "a is greater than 78";
+
+ }
+
+Else{
+
+Echo "a is not greater than 78";
+
+}
+
+?>
