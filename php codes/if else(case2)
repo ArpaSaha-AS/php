@@ -1,0 +1,23 @@
+<?php
+
+$age = 24;
+
+If ($age>18){
+
+Echo "You are eligiable for registration as a voter";
+
+}
+
+Elseif($age>13){
+
+Echo "You are not eligiable for registration as a voter";
+
+}
+
+Else{
+
+Echo "You are a child";
+
+}
+
+?>
